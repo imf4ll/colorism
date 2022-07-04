@@ -1,0 +1,12 @@
+[package]
+name = "colorism"
+version = "0.1.0"
+edition = "2021"
+authors = ["z3oxs"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/z3oxs/colorism"
+homepage = "https://github.com/z3oxs/colorism"
+description = "A library to use terminal ANSI colors"
+keywords = ["ansi", "colors"]
+exclude = [".github/*", "target/*", "tests/*"]
