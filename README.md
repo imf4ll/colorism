@@ -1,6 +1,7 @@
 <div align="center">
 <h2>Colorism</h2>
 <p>A library to use terminal ANSI colors</p>
+<img src="https://img.shields.io/crates/v/colorism.svg" />
 </div>
 
 &nbsp;
